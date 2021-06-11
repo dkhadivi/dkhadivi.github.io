@@ -1,0 +1,21 @@
+{
+    "name": "Latin Dictionary",
+    "content":
+    [
+        {"word": "ego", "meaning": "I"},
+        {"word": "tu", "meaning": "you"},
+        {"word": "nos", "meaning": "we"},
+        {"word": "is", "meaning": "he"},
+        {"word": "ea", "meaning": "she"},
+        {"word": "vos", "meaning": "you"},
+        {"word": "et", "meaning": "and"},
+        {"word": "si", "meaning": "if"},
+        {"word": "non", "meaning": "not, not at all, by no means"},
+        {"word": "Deus", "meaning": "God"},
+        {"word": "dies", "meaning": "day"},
+        {"word": "lux", "meaning": "light"},
+        {"word": "vita", "meaning": "life"},
+        {"word": "umbra", "meaning": "shade"},
+        {"word": "aut", "meaning": "or"}
+    ]
+}
